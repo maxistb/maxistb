@@ -1,15 +1,12 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://lh3.googleusercontent.com/drive-viewer/AEYmBYTl5btYjDLNTc_7VBHLXiqmVGgcTnDNjB1MoLfsEquQyZXtBsExdYGeVoFldPfmTwQNjoWENUhZN8m1LV7DYKYEasHD=s2560" width="100"/>
+</div>
 
-
-**maxistb/maxistb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<div id="badges" align="center">
+  <a href="linkedin.com/in/maximillian-stabe">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://maximillian-stabe.com/">
+    <img src="https://img.shields.io/badge/Portfolio-pink?style=for-the-badge" alt="Portfolio"/>
+  </a>
+</div>
