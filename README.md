@@ -16,7 +16,7 @@
   <span style="vertical-align: middle;">About Me:</span>
 </div>
 
-I am an App Developer from Germany currently working at Haspa Next GmbH
+I am an App Developer from Germany currently working at Haspa Next GmbH as an iOS-Developer.
 
 
 ---
