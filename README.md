@@ -17,6 +17,7 @@
 </div>
 
 I am an App Developer from Germany currently working at Haspa Next GmbH as an iOS-Developer.
+Currently studying Software-Engineering in the 3rd Semester at the University of Hamburg.
 
 
 ---
