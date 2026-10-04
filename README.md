@@ -16,9 +16,9 @@
   <span style="vertical-align: middle;">About Me:</span>
 </div>
 
-I am an App Developer from Germany working at Haspa Next GmbH as an iOS-Developer.
+I am Developer from Germany working at Haspa Next GmbH as a Frontend-Developer.
 
-Currently studying Software-Engineering in the 3rd Semester at the University of Hamburg.
+Recently finished studying Software-Engineering at the University of Hamburg.
 
 
 ---
